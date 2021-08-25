@@ -20,6 +20,6 @@ Currently, I am very passionate about frontend web development, especially with 
 
 <h2>Some more info about me:</h2>
 
-* I will be a 3rd year conmputer science student at UC Davis
+🏫 I will be a 3rd year conmputer science student at UC Davis
 * I am currently involved with #include @ Davis, a school club that develops high quality websites for local organizations and businesses
 * I am actively looking for internship roles
