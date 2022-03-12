@@ -5,11 +5,11 @@ Currently, I am very passionate about frontend web development, especially with 
 <h2>These are the languages and technologies I am experienced with:</h2>
 
 * C/C++
-* Python
 * Java
 * Javascript
 * React.js
 * HTML/CSS
+* Figma
 
 <h2>Here is what I hope to learn more about soon:</h2>
 
