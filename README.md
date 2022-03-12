@@ -11,7 +11,7 @@ Currently, I am very passionate about frontend web development, especially with 
 * React.js
 * HTML/CSS
 
-<h2>Here is what I hope to learn soon:</h2>
+<h2>Here is what I hope to learn more about soon:</h2>
 
 * Node.js
 * Express
