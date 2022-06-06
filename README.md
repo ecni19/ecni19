@@ -8,15 +8,11 @@ Currently, I am very passionate about frontend web development, especially with 
 * Java
 * Javascript
 * React.js
-* HTML/CSS
-* Figma
-
-<h2>Here is what I hope to learn more about soon:</h2>
-
+* Vue.js
 * Node.js
 * Express
-* Databases
-* Next.js
+* HTML/CSS
+* Figma
 
 <h2>Some more info about me:</h2>
 
