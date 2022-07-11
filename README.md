@@ -16,5 +16,5 @@ Currently, I am very passionate about frontend web development, especially with 
 
 <h2>Some more info about me:</h2>
 
-* I am a 3rd year conmputer science student at UC Davis.
+* I am a 4th year conmputer science student at UC Davis.
 * I am currently a technical director for HackDavis, my school's hackathon. I worked with other technical directors to build the frontend interface of the hackathon website!
